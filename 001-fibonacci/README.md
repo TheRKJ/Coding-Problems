@@ -1,0 +1,6 @@
+We aim to print here the well known Fibonacci sequence. First two terms of the sequence are 1 and then every term
+is sum of the preceeding two terms. like
+
+1 1 2 3 5 8 13 21 34 55....
+
+The very basic implementation of this series is easy to implement as well as easy to follow but it make the program almost unusable for terms greater than 50 or so. We aim to design algorithm to improve its efficiecy...
